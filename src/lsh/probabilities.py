@@ -1,7 +1,7 @@
 '''
 Created on Jun 20, 2016
 
-@author: bill
+@author: vasilis verroios
 '''
 
 import sys

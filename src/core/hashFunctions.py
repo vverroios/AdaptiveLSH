@@ -1,7 +1,7 @@
 '''
 Created on Jul 13, 2016
 
-@author: bill
+@author: vasilis verroios
 '''
 
 import re

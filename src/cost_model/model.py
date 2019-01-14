@@ -1,7 +1,7 @@
 '''
 Created on Oct 13, 2016
 
-@author: bill
+@author: vasilis verroios
 '''
 
 import time
